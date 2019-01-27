@@ -1,6 +1,6 @@
 ---
 title: Daniel Jagdmann
-descrition: Washington, DC
+description: Washington, DC
 ---
 
 Here is the content that I have developed for my courses:
