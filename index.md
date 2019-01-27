@@ -12,4 +12,5 @@ Here is a sample repository link:
 - [Sample Empty Reposity](https://github.com/djagdmann/Sample)
 
 Here is a practice link to a Youtube video:
+
 [![UVA Basketball Practice Youtube Link](https://img.youtube.com/vi/nHMljWePK-Y/0.jpg)](http://www.youtube.com/watch?v=nHMljWePK-Y)
